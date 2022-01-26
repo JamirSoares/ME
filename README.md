@@ -1,7 +1,5 @@
 # <img src="Imagens/yoda.png" width=200px align=center>
 
-# align=center font=cursive>
-
 # Hello there, I m Jamir🖖
 
 # contato
