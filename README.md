@@ -1,8 +1,8 @@
 <div></div>
-<img src="Imagens/yoda.png" align=right width=200px>
+
 <h1>
     <p align=center>
-        Hello there, I m Jamir🖖
+        Hello there, I m Jamir🖖<img src="Imagens/yoda.png" width=200px>
     </p>
 
 </h1>
