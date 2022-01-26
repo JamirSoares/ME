@@ -25,6 +25,7 @@
         <a href="https://www.oracle.com/java/technologies/downloads/ " target="_blank "><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white " target="_blank "></a>
     </h2>
 </div>
+
 <div align=center>
     <h2>
         Database<br><br>
@@ -34,6 +35,14 @@
     </h2>
 </div>
 
+<div align=center>
+  <h2>
+      Database<br><br>
+      <a href="https://mariadb.org " target="_blank "><img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white " alt=" ">
+      <a href="https://www.mysql.com " target="_blank "><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white " alt=" ">
+      <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads " target="_blank "><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white " alt=" ">
+  </h2>
+</div>
 <div align=center>
     <h2>
         <br><br>Operational Systems<br><br>
