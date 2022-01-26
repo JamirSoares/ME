@@ -1,5 +1,4 @@
 <p align="center">
-    <img src="Imagens/gato.png" />
     <img src="Imagens/yoda.png" />
 </p>
 <div align=center>
