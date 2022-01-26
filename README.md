@@ -43,4 +43,4 @@
     </h2>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamirSoares&langs_count=8&layout=compact&bg_color=0d1117&text_color=d1d1d1&title_color=d1d1d1&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirSoares)](https://github.com/anuraghazra/github-readme-stats)
