@@ -1,8 +1,7 @@
-<img src="Imagens/yoda.png" position=relative lign=right width=200px>
 <div align=center>
     <h1>
         <p>
-            Hello there, I m Jamir🖖
+            <img src="Imagens/yoda.png" position=relative lign=right width=200px>Hello there, I m Jamir🖖
         </p>
     </h1>
 
