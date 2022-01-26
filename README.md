@@ -1,3 +1,3 @@
 <h1 align=center>
- Hi there, mate 👋
+ Hello there, I m Jamir
 </h1>
