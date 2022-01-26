@@ -34,6 +34,6 @@
     </h2>
   <h2>
     <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirSoares&show_icons=true&theme=radical)</p>
-    <p>![Snake animation](https://github.com/JamirSoares/JamirSoares/blob/output/github-contribution-grid-snake.svg)</p>
+    
   </h2>
 </div>
