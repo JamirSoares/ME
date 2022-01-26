@@ -16,7 +16,7 @@
 </div>
 <div align=center>
     <h2>
-        <br><br>i have knowledge in:<br><br> Languagens<br><br>
+        I have knowledge in:<br><br> Languagens<br><br>
         <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
         <a href=https://developer.mozilla.org/pt-BR/docs/Web/CSS " target="_blank "><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white " target="_blank "></a>
@@ -37,8 +37,10 @@
 
 <div align=center>
     <h2>
-        <br><br>Operational Systems<br><br>
+        Operational Systems<br><br>
         <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white " alt=" "><a href="https://www.microsoft.com/pt-br/windows/windows-11 " target="_blank ">
         <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black " alt=" "><a href="https://archlinux.org " target="_blank ">
     </h2>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamirSoares&langs_count=8&layout=compact&bg_color=0d1117&text_color=d1d1d1&title_color=d1d1d1&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
