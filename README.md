@@ -1,7 +1,8 @@
 <div font=Cursive>
+    <img src="Imagens/yoda.png" width=200px>
     <h1>
         <p align=center>
-            <strong>Hello there, I m Jamir🖖</strong><img src="Imagens/yoda.png" width=200px>
+            <strong>Hello there, I m Jamir🖖</strong>
         </p>
     </h1>
 </div>
