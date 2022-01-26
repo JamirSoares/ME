@@ -44,3 +44,5 @@
         <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="">
     </p>
 </h5>
+
+![Snake animation](https://github.com/eagrundy/JamirSoares/blob/output/github-contribution-grid-snake.svg)
