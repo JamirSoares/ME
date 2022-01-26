@@ -1,5 +1,5 @@
 <div font=Cursive>
-    <img src="Imagens/yoda.png" align=cetner width=200px>
+    <img src="Imagens/yoda.png" align=center width=200px>
     <h1>
         <p align=center>
             <strong>Hello there, I m Jamir🖖</strong>
