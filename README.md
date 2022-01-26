@@ -1,9 +1,11 @@
-<h1>
-    <p align=left>
-        Hello there, I m Jamir🖖
-        <img src="Imagens/yoda.png" width=100px>
-    </p>
-</h1>
+<div>
+    <h1>
+        <p align=left>
+            Hello there, I m Jamir🖖
+            <img src="Imagens/yoda.png" width=100px>
+        </p>
+    </h1>
+</div>
 
 <h2>
     <p align=center> <br><br>contato<br><br>
