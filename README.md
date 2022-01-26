@@ -10,7 +10,7 @@
 
 <h1>
     <p align=center> <br><br>
-        <strong>contato</strong><br><br>
+        <strong>contato</strong]><br><br>
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
