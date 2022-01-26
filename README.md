@@ -33,4 +33,4 @@
         <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black " alt=" "><a href="https://archlinux.org " target="_blank ">
     </h2>
     </div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirSoares&show_icons=true&theme=radical)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
