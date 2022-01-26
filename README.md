@@ -1,5 +1,4 @@
 <h1>
-
     <p align=left>
         Hello there, I m Jamir🖖
         <img src="Imagens/yoda.png" width=100px>
