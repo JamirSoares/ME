@@ -34,8 +34,7 @@
 </h4>
 
 <h5>
-    <p>
-        <br><br> operational systems<br><br>
+    <p align=center> <br><br> operational systems<br><br>
         <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="">
         <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="">
     </p>
