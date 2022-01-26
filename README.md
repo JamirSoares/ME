@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black " alt=" "><a href="https://archlinux.org " target="_blank ">
     </h2>
   <h2>
-    <p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirSoares&show_icons=true&theme=radical)</p>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirSoares&show_icons=true&theme=radical)
     
   </h2>
 </div>
