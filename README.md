@@ -1,10 +1,11 @@
-<div align=center>
-    <img src="Imagens/yoda.png" position=relative lign=right width=200px>
-    <h1>
-        <p>
-            Hello there, I m Jamir🖖
-        </p>
-    </h1>
+<div></div>
+<img src="Imagens/yoda.png" align=right width=200px>
+<h1>
+    <p align=center>
+        Hello there, I m Jamir🖖
+    </p>
+
+</h1>
 
 </div>
 
