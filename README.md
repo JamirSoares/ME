@@ -1,7 +1,7 @@
 <div align=center>
     <h1>
         <p>
-            <img src="Imagens/flair.gif" align=right width=200px>Hello there, I m Jamir🖖
+            <img src="Imagens/flair.gif">
         </p>
     </h1>
 
