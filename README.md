@@ -28,17 +28,17 @@
 <div align=center>
     <h2>
         Database<br><br>
-        <img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white " alt=" ">
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white " alt=" ">
-        <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white " alt=" ">
+        <a href="https://mariadb.org " target="_blank "><img src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white " alt=" ">
+        <a href="https://www.mysql.com " target="_blank "><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white " alt=" ">
+        <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads " target="_blank "><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white " alt=" ">
     </h2>
 </div>
 
 <div align=center>
     <h2>
         operational systems<br><br>
-        <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black " alt=" ">
-        <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white " alt=" ">
+        <a href="https://www.microsoft.com/pt-br/windows/windows-11 " target="_blank "><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black " alt=" ">
+          <a href="https://archlinux.org " target="_blank "><img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white " alt=" ">
 
     </h2>
 
