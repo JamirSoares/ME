@@ -1,6 +1,6 @@
-<img src="Imagens/yoda.png" width=200px>
+<img src="Imagens/yoda.png" width=200px align=center>
 <h1>
-    <p align=center>
+    <p align=center font=cursive>
         <strong>Hello there, I m Jamir🖖</strong>
     </p>
 
