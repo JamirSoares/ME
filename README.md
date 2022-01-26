@@ -1,10 +1,11 @@
-<div>
+<div align=center>
+    <img src="Imagens/yoda.png" align=right width=100px>
     <h1>
-        <p align=left>
+        <p>
             Hello there, I m Jamir🖖
-            <img src="Imagens/yoda.png" width=100px>
         </p>
     </h1>
+
 </div>
 
 <h2>
