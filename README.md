@@ -1,3 +1,4 @@
+```diff - text in red + text in green ! text in orange # text in gray
 <div align=center>
     <h1>
         Hello there, I m Jamir🖖
@@ -44,3 +45,4 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirSoares&show_icons=true&theme=radical)
+```
