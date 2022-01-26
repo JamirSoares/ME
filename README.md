@@ -1,6 +1,6 @@
 <div align=center>
     <h1>
-        <img src="Imagens/yoda.png" width=200px align=center> Hello there, I m Jamir🖖
+        Hello there, I m Jamir🖖
     </h1>
 </div>
 
