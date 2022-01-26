@@ -3,9 +3,7 @@
         <p align=center>
             Hello there, I m Jamir🖖<img src="Imagens/yoda.png" width=200px>
         </p>
-
     </h1>
-
 </div>
 
 <h2>
