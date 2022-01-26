@@ -39,5 +39,6 @@
 
   <h2>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamirSoares&show_icons=true&theme=radical)
+    ![Snake animation](https://github.com/gabrielFernandes-dev/gabrielFernandes-dev/blob/output/github-contribution-grid-snake.svg)
   </h2>
 </div>
