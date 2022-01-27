@@ -30,7 +30,7 @@
     <h2>
         Operational Systems<br><br>
         <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white " alt=" "><a href="https://www.microsoft.com/pt-br/windows/windows-11 " target="_blank ">
-        <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black " alt=" "><a href="https://archlinux.org " target="_blank ">
+        <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black " alt=" "><a href="https://archlinux.org " target="_blank "></a>
     </h2>
 </div>
 
