@@ -3,7 +3,8 @@
         <img src="Imagens/yoda.png" />
     </p>
     <h1>
-        Hello there, I m Jamir🖖
+        <p>Hello there, I m Jamir🖖</p>
+        <p>i'm a developer from Brazil, i have knowledge in this programming language HTML, CSS, JavaScript, Java, Python and NodeJs, i know some Database Languages                        (MariaDB,MySql, Microsoft Sql Server), i have familiarity in Windows systems and so many Linux distributions (Kali,Arch,Debian,Ubuntu,Fedora)</p>
     </h1>
     <h2>
         Contatos<br><br>
